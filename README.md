@@ -29,13 +29,13 @@ Here are some ideas to get you started:
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/seantkahn" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/seantkahn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="mailto:seantkahn75@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://seantkahn.itch.io/" target="_blank"><img src="https://img.shields.io/badge/itch.io-EA4C89?logo=itch.io&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
- **<h3 align="left">I'm a passionate full-stack web developer with a background in Computer Science. I love creating innovative applications, exploring new technologies, and sharing my knowledge with the community. My goal is to leverage my skills to solve real-world problems and make a positive impact through technology.</h3>**
+ **<h3 align="left">I'm a recent Computer Science Graduate and a passionate full-stack web developer. I love creating innovative applications, exploring new technologies, and sharing my knowledge with the community. My goal is to leverage my skills to solve real-world problems and make a positive impact through technology.</h3>**
 
 **<h3 align="left">Rapid Fire</h3>**
 
 - 💼 I'm currently working on: **💻 Developing a new webapp and rider-driver management system for an emerging taxi company using Ionic React and Node.js, with a MySQL database hosted through AWS**
 - 🌱 I'm currently learning: **📚 Backend Development and Database Management**
-- 💬 Ask me about: **💡 Java, JavaScript, React, Node.js, Firebase, and RESTful APIs**
+- 💬 Ask me about: **💡 Java, JavaScript, React, Node.js, Firebase, MVC, and RESTful APIs**
 
  **<h3 align="left">Skills</h3>**
 
