@@ -33,9 +33,7 @@ Here are some ideas to get you started:
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a new webapp and rider-driver management system for an emerging taxi company using Ionic React and Node.js, with a MySQL database hosted through AWS**
 - 🌱 I'm currently learning: **📚 Backend Development and Database Management**
-- 💬 Ask me about: **💡 Java, JavaScript, React, Node.js, Firebase, MVC, and RESTful APIs**
 
  **<h3 align="left">Skills</h3>**
 
